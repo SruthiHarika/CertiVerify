@@ -1,0 +1,8 @@
+{
+  "name": "certverify-cloud",
+  "version": "1.0.0",
+  "description": "Cloud Based Certificate Verification System",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}S
